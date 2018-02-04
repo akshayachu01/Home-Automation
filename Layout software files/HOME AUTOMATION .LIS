@@ -1,0 +1,76 @@
+AutoECO Report
+FILE-A: E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+FILE-B: E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\CAPTURE\HOME AUTOMATION .MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package DIODE
+Adding package CON3
+Adding package R
+Adding package C
+Adding package SW_TC_SPST
+Adding package 78XX/SIP_0
+Adding package NPN_BCE
+Adding package LM317/CYL_0
+Adding package CON2
+Adding package RELAY_SPDT
+Adding package CON16C
+Adding package LED
+Adding component D3
+Found footprint 1N4007 from PRT file for part DIODE, comp D3
+Adding component J1
+Found library footprint with same name as part CON3
+Adding component R6
+Found footprint QUARTERWATT RESISTOR from PRT file for part R, comp R6
+Adding component C1
+Adding component C4
+Adding component SW1
+Found footprint MICRO SWITCH 2 LEG from PRT file for part SW_TC_SPST, comp SW1
+Adding component R4
+Adding component U1
+Found footprint 78XX from PRT file for part 78XX/SIP_0, comp U1
+Adding component Q1
+Found footprint TO39-2N222A from PRT file for part NPN_BCE, comp Q1
+Adding component C2
+Adding component D1
+Adding component R8
+Adding component U2
+Found footprint 7811 from PRT file for part LM317/CYL_0, comp U2
+Adding component R5
+Adding component R3
+Adding component R7
+Adding component J4
+Found footprint 2 PIN BLACK RMC from PRT file for part CON2, comp J4
+Adding component R2
+Adding component LS1
+Found footprint RELAY SPDT from PRT file for part RELAY_SPDT, comp LS1
+Adding component C3
+Adding component J3
+Adding component R9
+Adding component LS2
+Adding component R1
+Adding component J2
+Adding component Q2
+Adding component D2
+Found library footprint with same name as part LED
+Adding net N01445
+Adding net N01496
+Adding net N02161
+Adding net N02229
+Adding net N02504
+Adding net N02576
+Adding net N01620
+Adding net N01668
+Adding net N00790
+Adding net N00623
+Adding net GND_POWER
+Adding net 12V
+Adding net 5V
+Adding net 3.3V
+Adding net N03269
+Adding net N03617
+Adding net N030784
+Adding net N0307810
+Adding net N05452
+Adding net N04814
+Deleting net DEFAULT
+*EOF*
+No errors found

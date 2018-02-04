@@ -1,0 +1,621 @@
+Sun Jul 16 16:33:19 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:33:19 Saved as file BACKUP1.MAX
+Sun Jul 16 16:33:19 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:33:19 UserDiv from Layout.INI for AutoECO: 60
+Sun Jul 16 16:33:19 Loaded file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:33:19 Loaded file C:\USERS\HP\DESKTOP\ZIGBEE.LLB
+Sun Jul 16 16:33:19 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BGA.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\CLCC.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DCON050T.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DCON085T.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DIMM050F.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DIMM050T.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DIN.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DIP100B.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DIP100T.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DSUBT.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DSUBT_HD.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\ECON100T.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\EMPTY.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\EX_GUI.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\FBUS.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\FOOTERS.LLB
+Sun Jul 16 16:33:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\ISA.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\JUMPER.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\LAYOUT.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\LCON100T.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\METRIC.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\PADSTACK.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\PC104.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\PCI.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\PCON100T.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\PCON156T.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\PGA.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\PLCC.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\QUAD.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\QUADB.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\RF.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SIMM050F.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SIMM050T.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SIMM100F.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SIMM100T.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SIP.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SM.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SOG.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SOJ.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\STIFF.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Sun Jul 16 16:33:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_DISC.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TO.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TRAINING.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\VRES.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\WCON100T.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\XT.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\ZIGBEE.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\ZIGZAG.LLB
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:33:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:34:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:34:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:03 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Sun Jul 16 16:35:06 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Sun Jul 16 16:35:07 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\METRIC.LLB
+Sun Jul 16 16:35:09 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Sun Jul 16 16:35:11 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Sun Jul 16 16:35:11 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Sun Jul 16 16:35:12 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Sun Jul 16 16:35:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:27 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:36 Loaded file C:\USERS\HP\DESKTOP\ZIGBEE.LLB
+Sun Jul 16 16:35:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:35:41 Loaded file C:\USERS\HP\DESKTOP\ZIGBEE.LLB
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:35:41 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:35:41 Loaded file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:38:16 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Sun Jul 16 16:38:16 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:16 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Sun Jul 16 16:38:19 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Sun Jul 16 16:38:20 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Sun Jul 16 16:38:25 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Sun Jul 16 16:38:26 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:27 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:38:31 Error code 2160.400 (0)
+Sun Jul 16 16:38:31 Saved as file Backup0.max
+Sun Jul 16 16:38:31 Windows which were open at time of error:
+Sun Jul 16 16:38:31 	ActiveWindow: &Route
+Sun Jul 16 16:38:31 	Icon: &Components
+Sun Jul 16 16:38:31 	Icon: Post Proces&s
+Sun Jul 16 16:38:31 	Icon: &Nets
+Sun Jul 16 16:38:31 End-of-list
+Sun Jul 16 16:38:31 Loaded file BACKUP0.MAX
+Sun Jul 16 16:38:34 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:39:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:39:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:39:12 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Sun Jul 16 16:39:13 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Sun Jul 16 16:39:15 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Sun Jul 16 16:39:15 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Sun Jul 16 16:39:15 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Sun Jul 16 16:39:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:39:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:39:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:39:28 Saved as file ~undo.max
+Sun Jul 16 16:40:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:06 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Sun Jul 16 16:40:08 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Sun Jul 16 16:40:10 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Sun Jul 16 16:40:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:32 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:40:36 Saved as file ~undo.max
+Sun Jul 16 16:42:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:42:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:19 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Sun Jul 16 16:42:21 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Sun Jul 16 16:42:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:42:32 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Sun Jul 16 16:42:37 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Sun Jul 16 16:42:40 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Sun Jul 16 16:42:40 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Sun Jul 16 16:42:42 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Sun Jul 16 16:42:43 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Sun Jul 16 16:42:45 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Sun Jul 16 16:43:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:11 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:16 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:29 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Sun Jul 16 16:43:31 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Sun Jul 16 16:43:32 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Sun Jul 16 16:43:34 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Sun Jul 16 16:43:36 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Sun Jul 16 16:43:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:39 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:43:42 Saved as file ~undo.max
+Sun Jul 16 16:43:45 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:46:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:46:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:46:29 Loaded file C:\USERS\HP\DESKTOP\ZIGBEE.LLB
+Sun Jul 16 16:46:30 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Sun Jul 16 16:46:32 Loaded file E:\PERSONEL\SOFTWARES\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Sun Jul 16 16:46:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:46:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Sun Jul 16 16:46:36 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:36 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:36 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:36 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:36 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:46:37 Footprint coords will be rounded to nearest base unit.
+Sun Jul 16 16:48:20 Saved as file ~undo.max
+Sun Jul 16 16:52:01 Saved as file BACKUP1.MAX
+Sun Jul 16 16:53:11 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:53:13 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 16:56:53 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 17:00:31 Saved as file ~undo.max
+Sun Jul 16 17:00:35 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 17:00:36 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 17:01:44 No new connections routed.
+Sun Jul 16 17:01:44 Total is now 0 out of 49 (0%).
+Sun Jul 16 17:01:44 Saved as file SWEEP1.MAX
+Sun Jul 16 17:01:49 Saved as file BACKUP1.MAX
+Sun Jul 16 17:01:49 Routed 48 connections in 4 seconds.
+Sun Jul 16 17:01:49 Total is now 48 out of 49 (97%).
+Sun Jul 16 17:01:49 Saved as file SWEEP2.MAX
+Sun Jul 16 17:01:59 No new connections routed.
+Sun Jul 16 17:01:59 Total is now 48 out of 49 (97%).
+Sun Jul 16 17:01:59 Saved as file SWEEP3.MAX
+Sun Jul 16 17:02:04 Saved as file BACKUP1.MAX
+Sun Jul 16 17:02:10 Routed 1 connections in 11 seconds.
+Sun Jul 16 17:02:10 Total is now 49 out of 49 (100%).
+Sun Jul 16 17:02:10 Saved as file SWEEP4.MAX
+Sun Jul 16 17:02:14 No new connections routed.
+Sun Jul 16 17:02:14 Total is now 49 out of 49 (100%).
+Sun Jul 16 17:02:14 Saved as file SWEEP5.MAX
+Sun Jul 16 17:04:27 Saved as file ~undo.max
+Sun Jul 16 17:05:16 Saved as file ~undo.max
+Sun Jul 16 17:07:19 Saved as file ~undo.max
+Sun Jul 16 17:07:58 Saved as file ~undo.max
+Sun Jul 16 17:08:33 Saved as file ~undo.max
+Sun Jul 16 17:09:19 Saved as file ~undo.max
+Sun Jul 16 17:10:50 Saved as file ~undo.max
+Sun Jul 16 17:11:37 Saved as file ~undo.max
+Sun Jul 16 17:11:52 Saved as file ~undo.max
+Sun Jul 16 17:11:57 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 17:11:58 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 17:12:08 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 17:12:12 Saved as file E:\NGL INTERNSHIP PROJECTS\HOME AUTOMATION\LAYOUT\HOME AUTOMATION .MAX
+Sun Jul 16 18:53:26 Saved as file ~undo.max
+Sun Jul 16 18:54:01 Saved as file ~undo.max
+Sun Jul 16 18:56:01 Saved as file ~undo.max
+Sun Jul 16 18:56:18 Saved as file ~undo.max
+Sun Jul 16 18:56:40 Saved as file ~undo.max
+Sun Jul 16 19:03:26 Saved as file BACKUP1.MAX
+Sun Jul 16 19:03:55 Saved as file ~undo.max
